@@ -898,7 +898,7 @@ nav{
 .bean-cup{
     height: 250px;
     background-color: #bb9457;
-    background-image: url(images/portrait.png);
+    background-image: url(./images/portrait.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
