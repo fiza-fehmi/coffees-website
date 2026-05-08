@@ -1,104 +1,4 @@
-/* *{
-    box-sizing: border-box;
-    margin: 0px;
-    padding: 0px;
-} */
-/* .hero{
-    background-image: url(./images/heroes.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 100vh;
-
-}
-.container{
-    display: flex;
-    justify-content: space-between; 
-    padding: 20px 5%;
-    position: relative;
-    height: 100px;
-    align-items: center;
-    width: 100%;
-}
-.logo a{
-    text-decoration: none;
-    text-transform: uppercase;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 900;
-    font-size: 30px;
-    color: #e5e5e5;
-}
-.logo .dot{
-    color: red;  
-}
-.links{
-    display: flex;
-    gap: 20px;
-}
-.links a{
-    text-decoration: none;
-    color: #e5e5e5;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-transform: uppercase;
-    transition: all 2s ease;
-}
-.links a:hover{
-    text-decoration: underline;
-    text-underline-offset: 10px;
-}
-.srch{
-    height: 30px;
-    width: 100px;
-    background-color: #9e2a2b;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 12px;
-    gap: 2px;
-    cursor: pointer;
-    transition: all 0.2s ease-in;
-}
-.srch:hover{
-    background-color: #7a1f20;
-}
-.srch a ,i{
-    text-decoration: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
-    text-transform: capitalize;
-}
-.text{
-    color: white;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-   
-    top: 50%;
-    left: 5%;
-    position: absolute;
-    text-transform: capitalize;
-    font-size: 22px;
-    max-width: 550px;
-    
-}
-.order a{
-    font-size: 16px;
-    text-decoration: none;
-    height: 34px;
-    width: 120px;
-    background-color: #9e2a2b;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 20px;
-    margin-top: 20px;
-    transition: all 0.2s ease-in;
-   
-}
-.order a:hover{
-    background-color: #7a1f20;
-}
-     */
-     *{
+*{
     margin:0;
     padding:0;
     box-sizing:border-box;
@@ -669,7 +569,7 @@ nav{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(./images/slider.png); 
+    background-image:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url(/images/slider.png); 
     position: relative;
     padding: 20px 0px 30px;
 }
